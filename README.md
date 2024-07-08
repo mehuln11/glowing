@@ -1,13 +1,13 @@
 <div align="center">
 
   <br />
-  <br />
 
   <h2 align="center">Glowing - eCommerce Website</h2>
 
   Glowing is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://mehuln11.github.io/glowing/#"><strong>➥ Live Demo</strong></a>
+  <br />![desktop](https://github.com/mehuln11/glowing/assets/90456311/c4c408c6-f3fe-489b-8bac-735715650c41)
 
 </div>
 
